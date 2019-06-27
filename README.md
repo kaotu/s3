@@ -6,5 +6,5 @@ Use python3, venv
 ```bash
 python3 -m venv S3ENV
 . S3ENV/bin/activate
-pip install requirements.txt
+pip install -r requirements.txt
 ```
